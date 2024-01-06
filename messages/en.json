@@ -1,0 +1,18 @@
+{
+  "Translate": {
+    "title": "Welcome to Sea of Thieves",
+    "subtitle": "Become a pirate legend",
+    "loginText": "Log in with Google",
+    "orText": "or",
+    "placeholderInputText": "E-mail",
+    "placeholderInputPassword": "Password",
+    "forgotPasswordText": "Forgot your Password?",
+    "loginButtonText": "Log in",
+    "signUpMessage": "Don't have an account?",
+    "signUpText": "Sign up",
+    "communityItem": "Community",
+    "watchItem": "Watch",
+    "storeItem": "Store",
+    "phraseText": "The cure for anything is salt water, sweat, tears or the sea."
+  }
+}

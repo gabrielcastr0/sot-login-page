@@ -1,0 +1,18 @@
+{
+  "Translate": {
+    "title": "Bem-vindo ao Sea of Thieves",
+    "subtitle": "Torne-se uma lenda pirata",
+    "loginText": "Entre com o Google",
+    "orText": "ou",
+    "placeholderInputText": "E-mail",
+    "placeholderInputPassword": "Senha",
+    "forgotPasswordText": "Esqueceu sua senha?",
+    "loginButtonText": "Entrar",
+    "signUpMessage": "Não tem uma conta?",
+    "signUpText": "Cadastre-se",
+    "communityItem": "Comunidade",
+    "watchItem": "Assistir",
+    "storeItem": "Loja",
+    "phraseText": "A cura para qualquer coisa é a água salgada, o suor, as lágrimas ou o mar."
+  }
+}
